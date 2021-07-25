@@ -1,0 +1,10 @@
+.title {
+  text-align: center;
+  background-color: black;
+  border-color: blanchedalmond;
+  border-width: 10px;
+  font-size: 3rem;
+  height: 80px;
+  text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 15px #e60073, 0 0 20px #e60073,
+    0 0 25px #3200e6, 0 0 30px #3d00e6, 0 0 35px #3200e6;
+}
